@@ -7,8 +7,10 @@ Computer Science, BSc
 Colab Innovative Institute, Kaduna — Frontend Intern January 2022 - June 2022: 
  - Learned basic frontend technologies like React.js, HTML, CSS, JavaScript,     
     Tailwind, Bootstrap, and Vue.js and taught frontend classes.
+
 Crystals Edu, Kaduna, Nigeria — Full stack Intern/Teacher July 2022 - May 2023: 
  - Learned MERN stack and taught kids and classes.
+
 Greysoft Technologies, Kaduna, Nigeria — Junior Data Analyst/Machine Learning
 May 2023 – Present:
  - Working with the team to collect and analyze data to help the 
