@@ -5,36 +5,54 @@
 
 ### Certifications:
 •	JavaScript Algorithms and Data Structures (FREECODECAMP)
+
 •	Multivariate Time Series Forecasting in R (Great Learning Academy)
+
 •	Front End Development Libraries (FREECODECAMP)
+
 •	Marketing & Retail Analytics – Advanced (Great Learning Academy)
+
 •	Data Visualization with D3 (FREECODECAMP)
+
 •	Tensor-Flow Python (Great Learning Academy)
+
 •	Scientific Computing with Python (FREECODECAMP)
+
 •	Data Analysis with Python (FREECODECAMP)
+
 •	Machine Learning with Python(FREECODECAMP)
+
 •	SQL for Data Science (Great Learning Academy)
+
 •	Data Visualization with Power-BI (Great Learning Academy)
 
 CERTIFICATIONS ARE VISIBLE ON LINKEDLN AND WILL BE PROVIED UPON REQUEST.
 
 ### Technical Skills:
 •	Programming Languages: Python, R, JavaScript
+
 •	Data Visualization: Power BI, Excel, Tableau
+
 •	Statistical Analysis: SPSS, Stata 16
+
 •	Web Development: MERN STACK
+
 •	Operating System: Linux commands
+
 •	Database: SQL, MongoDB
+
 •	Machine Learning with R and Python
 
 ### Work Experience:
-•	Web Development Internship at Colab Innovative Institute, Kaduna, Kaduna State, January - June 2022; 
+### Web Development Internship at Colab Innovative Institute, Kaduna, Kaduna State, January - June 2022; 
+
   i.	HTML, CSS, JAVASCRIPT: I Spearheaded the development of a teacher rating system and an online voting platform to enhance student learning and facilitate democratic decision-making in the institute.
   ii.	REACT AND FULLSTACK PROJECTS: I Led backend development for an advanced inventory system, contributing to UI and front-end design for a seamless purchase tracking solution.
   
-•	Machine Learning Engineer/Data Analyst, Greysoft Technologies,  Kaduna, Kaduna State, June 2023 – Present
+# Machine Learning Engineer/Data Analyst, Greysoft Technologies,  Kaduna, Kaduna State, June 2023 – Present
+
   a)	Used R to measure features importance and then communicate the correlations between these features with some visualisations
-# Insights Gained:
+### Insights Gained:
    i.	Column-specific outlier treatment ensures robustness in income and biochemical data.
    ii.	Adjustment of missing or erroneous values in the `Maternal income` column using mean or median values.
    iii.	Imputation of missing values contributes to a more comprehensive dataset.
